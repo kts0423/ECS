@@ -9,7 +9,7 @@
 - **p5.js**: LED 상태 및 밝기 UI 표시, 실시간 데이터 반영
 
 ## 🎬 시연 영상
-https://www.youtube.com/@%EA%B9%80%ED%83%9C%EC%84%B1-r5q
+[https://www.youtube.com/@%EA%B9%80%ED%83%9C%EC%84%B1-r5q](https://www.youtube.com/shorts/wwfRU0vhcsE)
 
 ## 📷 회로도
 https://github.com/user-attachments/assets/028293ae-14d5-49f2-8393-07b8e316d7ae
