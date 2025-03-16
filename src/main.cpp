@@ -2,7 +2,7 @@
 #include <TaskScheduler.h>
 #include <PinChangeInterrupt.h>
 
-// LED 핀 정의
+// LED 핀 정의 1
 const int RED_LED = 11;     // 빨간 LED(PWM)
 const int YELLOW_LED = 10;  // 노란 LED(PWM)
 const int GREEN_LED = 9;    // 초록 LED(PWM)
